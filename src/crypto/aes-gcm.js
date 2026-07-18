@@ -22,7 +22,7 @@ export async function importRawKey(rawKey) {
     false,
     ['encrypt', 'decrypt'],
   );
-}
+} 
 
 /**
  * Encrypt plaintext bytes with AES-256-GCM.
