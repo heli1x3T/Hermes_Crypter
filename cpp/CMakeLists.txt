@@ -4,3 +4,4 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(obfmini src/main.cpp src/xor_mask.cpp)
  
  
+ 
