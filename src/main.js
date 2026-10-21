@@ -5,7 +5,7 @@
 
 import './style.css';
 import { FEATURES, STEPS, AV_ENGINES } from './data.js';
-import { initConstellation } from './constellation.js';
+import { initConstellation } from './constellation.js'; 
 
 // ── DOM helpers ──────────────────────────────────────────────
 const $ = (sel, root = document) => root.querySelector(sel);
